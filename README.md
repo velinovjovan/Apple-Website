@@ -1,4 +1,4 @@
-# Apple iPhone 15 Pro Showcase Website
+# 📱 [Apple iPhone 15 Pro Showcase Website](https://applevelinov.vercel.app)
 
 Welcome to the **Apple iPhone 15 Pro Showcase** repository! This project is a modern, visually engaging website built with React and Vite to highlight the features and design of the Apple iPhone 15 Pro.
 
@@ -9,10 +9,6 @@ Welcome to the **Apple iPhone 15 Pro Showcase** repository! This project is a mo
 - **Three.js**: Stunning 3D visuals to showcase the iPhone 15 Pro in a unique way.
 - **Hosted on Vercel**: Deployed and hosted on Vercel for a fast and reliable user experience.
 
-## Preview
-
-Check out the live site here: [Live Demo](https://apple-jowwan.vercel.app)
-
 ## Installation
 
 Follow these steps to run the project locally:
@@ -20,8 +16,8 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Jowwan/Apple-Website-Clone.git
-   cd Apple-Website-Clone
+   git clone https://github.com/velinovjovan/Apple-Website.git
+   cd Apple-Website
    ```
 
 2. **Install dependencies:**
