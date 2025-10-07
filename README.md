@@ -1,15 +1,25 @@
-# 📱 [Apple iPhone 15 Pro Showcase Website](https://applevelinov.vercel.app)
+# iPhone 15 Showcase Website 📱
 
 Welcome to the **Apple iPhone 15 Pro Showcase** repository! This project is a modern, visually engaging website built with React and Vite to highlight the features and design of the Apple iPhone 15 Pro.
 
-## Features
+---
+
+## 🌐 **Live Demo**
+
+Explore the website [here](https://applevelinov.vercel.app)
+
+---
+
+## 🖌️ Project Highlights
 
 - **React & Vite**: Utilizes the powerful and fast Vite build tool alongside React for an optimized development experience.
 - **GSAP Animations**: Smooth and interactive animations to enhance user engagement.
 - **Three.js**: Stunning 3D visuals to showcase the iPhone 15 Pro in a unique way.
 - **Hosted on Vercel**: Deployed and hosted on Vercel for a fast and reliable user experience.
 
-## Installation
+---
+
+## 🚀 Getting Started
 
 Follow these steps to run the project locally:
 
@@ -35,7 +45,9 @@ Follow these steps to run the project locally:
 4. **Access the website:**
    Open your browser and navigate to `http://localhost:5173`.
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - **React**: For building the user interface.
 - **Vite**: For fast and efficient development.
@@ -45,4 +57,4 @@ Follow these steps to run the project locally:
 
 ---
 
-Feel free to customize the repository and project to make it your own! 🎨
+**🎨 Feel free to customize the repository and project to make it your own! 🎨**
